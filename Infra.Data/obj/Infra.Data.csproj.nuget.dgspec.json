@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Domain\\Infra.Domain.csproj": {}
+    "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Data\\Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Domain\\Infra.Domain.csproj": {
+    "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Data\\Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Domain\\Infra.Domain.csproj",
-        "projectName": "Infra.Domain",
-        "projectPath": "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Domain\\Infra.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Data\\Infra.Data.csproj",
+        "projectName": "Infra.Data",
+        "projectPath": "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Data\\Infra.Data.csproj",
         "packagesPath": "C:\\Users\\roberto.carvalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Domain\\obj\\",
+        "outputPath": "C:\\Users\\roberto.carvalho\\Desktop\\LearningNET\\dotnet\\Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roberto.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config"
